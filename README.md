@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ecathcart
-- 👀 I’m interested in 3D printing, ML and optimisation
+- 👀 I’m interested in 3D printing and ML
 - 🌱 I’m currently learning ML
 
 <!---
